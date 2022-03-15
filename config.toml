@@ -1,0 +1,6 @@
+baseURL = "https://selfec.jonescy.com/"
+languageCode = "en-us"
+title = "080901深大自考本科笔记"
+theme = "hugo-book"
+disqusShortname = "jonescy-selfec"
+googleAnalytics = "G-GXM3F3JTW3"
