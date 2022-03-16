@@ -1,5 +1,4 @@
 echo "start deploying ...."
-git pull
 echo "cleaning build directory ...."
 rm -rf ./public/*
 echo  "building website ...."
