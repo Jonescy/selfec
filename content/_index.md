@@ -2,7 +2,7 @@
 title: 深大计算机技术自考 
 type: docs
 ---
-
+> 部分笔记来自于https://github.com/Eished/self-study-exam_notes
 # 计算机技术自考(课程代码: 080901)
 ## 课程清单
 - [ ] [00015 英语(二)](docs/00015/notes.md)
