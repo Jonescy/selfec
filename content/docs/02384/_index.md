@@ -1,6 +1,6 @@
 ---
-title: 99999 学位英语
-weight: 30
+title: 02384 计算机原理
+weight: 72
 bookCollapseSection: true
 daft: true
 ---

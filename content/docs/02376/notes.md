@@ -4,7 +4,7 @@ weight: 10
 ---
 > # [**计算机信息管理专业笔记 080901**](https://github.com/Eished/self-study-exam_notes)
 >
-> **最新自考笔记** : https://github.com/Eished/self-study-exam_notes
+> 最新自考笔记 : https://github.com/Eished/self-study-exam_notes
 
 # 信息系统开发 02376
 

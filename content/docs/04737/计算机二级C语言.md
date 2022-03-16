@@ -4,7 +4,7 @@ weight: 10
 ---
 # [计算机二级C语言](https://github.com/Eished/self-study-exam_notes)
 
-> **最新自考笔记** : https://github.com/Eished/self-study-exam_notes
+> 最新自考笔记 : https://github.com/Eished/self-study-exam_notes
 >
 > **配套代码**：https://github.com/Eished/C-CPP
 

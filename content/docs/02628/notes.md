@@ -4,7 +4,7 @@ weight: 10
 ---
 [TOC]
 
-> **计算机信息管理专业课程**
+> 计算机信息管理专业课程
 >
 > 自考笔记在线更新地址 : https://github.com/Eished/self-study-exam_notes
 

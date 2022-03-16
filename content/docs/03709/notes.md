@@ -1,5 +1,5 @@
 ---
-title: 总结
+title: 笔记
 weight: 10
 ---
 

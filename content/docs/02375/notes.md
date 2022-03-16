@@ -4,9 +4,9 @@ weight: 10
 ---
 # 运筹学基础 (02375) 2002版
 
-> ## [**计算机信息管理专业课程**](https://github.com/Eished/self-study-exam_notes)
+> ## [计算机信息管理专业课程](https://github.com/Eished/self-study-exam_notes)
 >
-> **最新自考笔记** : https://github.com/Eished/self-study-exam_notes
+> 最新自考笔记 : https://github.com/Eished/self-study-exam_notes
 
 
 
