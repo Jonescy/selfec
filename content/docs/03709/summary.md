@@ -1,6 +1,6 @@
 ---
-title： 总结
-weight： 10
+title: 总结
+weight: 10
 
 ---
 
