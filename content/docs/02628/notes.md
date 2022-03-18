@@ -75,7 +75,7 @@ weight: 10
 1. 管理经济学的研究对象是与资源配置有关的管理决策问题。
 2. 管理经济学以经济理论和决策工具为分析工具。
 
-<img src="../../static/img/02628/image-20200326082501534.png" alt="image-20200326082501534" style="zoom:67%;" />
+<img src="../../../static/img/02628/image-20200326082501534.png" alt="image-20200326082501534" style="zoom:67%;" />
 
 #### 1.1.2 决策的基本过程
 
@@ -503,7 +503,7 @@ $$
 
 ##### 四、需求价格弹性的应用（重要）
 
-<img src="../../static/img/02628/image-20200618152516439.png" alt="image-20200618152516439" style="zoom:67%;" />
+<img src="../../../static/img/02628/image-20200618152516439.png" alt="image-20200618152516439" style="zoom:67%;" />
 
 #### 4.1.2 需求的收入弹性
 
@@ -629,7 +629,7 @@ $$
 
    简化：$Q=f(L,K)$
 
-<img src="../../static/img/02628/image-20200618204020387.png" alt="image-20200618204020387" style="zoom:67%;" />
+<img src="../../../static/img/02628/image-20200618204020387.png" alt="image-20200618204020387" style="zoom:67%;" />
 
 
 
@@ -694,7 +694,7 @@ $$
 
 #### 5.2.4 生产三阶段
 
-<img src="../../static/img/02628/image-20200619071350853.png" alt="image-20200619071350853" style="zoom:67%;" />
+<img src="../../../static/img/02628/image-20200619071350853.png" alt="image-20200619071350853" style="zoom:67%;" />
 
 1. 第一阶段：
    - 可变要素投入从零开始，到平均产量最大值L2为止。这一阶段增加投入有效。
@@ -753,7 +753,7 @@ $$
    VMP_L=P_L
    $$
 
-   <img src="../../static/img/02628/image-20200619090212764.png" alt="image-20200619090212764" style="zoom: 67%;" />
+   <img src="../../../static/img/02628/image-20200619090212764.png" alt="image-20200619090212764" style="zoom: 67%;" />
 
 ### 5.3 长期生产函数分析
 
@@ -824,7 +824,7 @@ $$
 
 4. 
 
-<img src="../../static/img/02628/image-20200619114954601.png" alt="image-20200619114954601" style="zoom:50%;" />
+<img src="../../../static/img/02628/image-20200619114954601.png" alt="image-20200619114954601" style="zoom:50%;" />
 
 ### 5.4 规模报酬
 
@@ -855,7 +855,7 @@ $$
 
 2. 规模报酬不变的原因
 
-   <img src="../../static/img/02628/image-20200619153339584.png" alt="image-20200619153339584" style="zoom:50%;" />
+   <img src="../../../static/img/02628/image-20200619153339584.png" alt="image-20200619153339584" style="zoom:50%;" />
 
 3. 规模报酬递减的原因
 
@@ -865,11 +865,11 @@ $$
 
 #### 5.5.1 技术进步导致生产函数的改变
 
-<img src="../../static/img/02628/image-20200619155235934.png" alt="image-20200619155235934" style="zoom:50%;" />
+<img src="../../../static/img/02628/image-20200619155235934.png" alt="image-20200619155235934" style="zoom:50%;" />
 
 #### 5.5.2 技术进步的测定
 
-<img src="../../static/img/02628/image-20200619155531865.png" alt="image-20200619155531865" style="zoom:50%;" />
+<img src="../../../static/img/02628/image-20200619155531865.png" alt="image-20200619155531865" style="zoom:50%;" />
 
 
 
@@ -946,15 +946,15 @@ $$
 
 1. 短期总成本（STC）、（TFC）、（TVC）
 
-   <img src="../../static/img/02628/image-20200620074441724.png" alt="image-20200620074441724" style="zoom:50%;" />
+   <img src="../../../static/img/02628/image-20200620074441724.png" alt="image-20200620074441724" style="zoom:50%;" />
 
 2. 短期平均成本（SAC）
 
-   <img src="../../static/img/02628/image-20200620075111378.png" alt="image-20200620075111378" style="zoom: 67%;" />
+   <img src="../../../static/img/02628/image-20200620075111378.png" alt="image-20200620075111378" style="zoom: 67%;" />
 
 3. 短期边际成本（SMC）
 
-   <img src="../../static/img/02628/image-20200620075947609.png" alt="image-20200620075947609" style="zoom:67%;" />
+   <img src="../../../static/img/02628/image-20200620075947609.png" alt="image-20200620075947609" style="zoom:67%;" />
 
 4. SAC 曲线与SMC 曲线之间的关系
 
@@ -964,7 +964,7 @@ $$
 
    3. SAC 曲线与SMC 曲线交点 E 称为盈亏平衡点
 
-      <img src="../../static/img/02628/image-20200620080411537.png" alt="123" style="zoom: 80%;" />
+      <img src="../../../static/img/02628/image-20200620080411537.png" alt="123" style="zoom: 80%;" />
 
    4. SMC 曲线与 AVC 曲线交于 H 点，称为停止营业点或生产关闭点。
 
@@ -974,7 +974,7 @@ $$
 
       MP最大时 SMC最下
    
-   <img src="../../static/img/02628/image-20200620083307096.png" alt="image-20200620083307096" style="zoom: 80%;" />
+   <img src="../../../static/img/02628/image-20200620083307096.png" alt="image-20200620083307096" style="zoom: 80%;" />
 
 #### 6.2.2 长期成本分析
 
@@ -1078,9 +1078,9 @@ $$
   $$
   
 
-<img src="../../static/img/02628/image-20200621101537199.png" alt="image-20200621101537199" style="zoom:67%;" />
+<img src="../../../static/img/02628/image-20200621101537199.png" alt="image-20200621101537199" style="zoom:67%;" />
 
-<img src="../../static/img/02628/image-20200621102227061.png" alt="image-20200621102227061" style="zoom: 67%;" />
+<img src="../../../static/img/02628/image-20200621102227061.png" alt="image-20200621102227061" style="zoom: 67%;" />
 
 - 达到目标利润所需产量：
   $$
@@ -1120,7 +1120,7 @@ $$
   - 等收益线方程：
     - $\displaystyle TR=P_X+P_Y\cdot Y$
 
-  <img src="../../static/img/02628/image-20200621153916815.png" alt="image-20200621153916815" style="zoom: 80%;" />
+  <img src="../../../static/img/02628/image-20200621153916815.png" alt="image-20200621153916815" style="zoom: 80%;" />
 
   - 等收益曲线所处位置说明企业所获取的总收益的大小，离原点越远的等收益线表明获得收益越大。
 
@@ -1138,13 +1138,13 @@ $$
 
    - 唯有切点的收益最大。
 
-     <img src="../../static/img/02628/image-20200621154607182.png" alt="image-20200621154607182" style="zoom: 80%;" />
+     <img src="../../../static/img/02628/image-20200621154607182.png" alt="image-20200621154607182" style="zoom: 80%;" />
 
 2. 收益既定资源耗费最小的产品产量组合
 
    - 唯有切点的收益最大，资源消耗最小。
 
-     <img src="../../static/img/02628/image-20200621154720648.png" alt="image-20200621154720648" style="zoom:80%;" />
+     <img src="../../../static/img/02628/image-20200621154720648.png" alt="image-20200621154720648" style="zoom:80%;" />
 
 3. 产品产量最佳组合原则
 
@@ -1177,7 +1177,7 @@ $$
 
 1. 企业需求曲线（DD曲线）
 
-   <img src="../../static/img/02628/image-20200621163217792.png" alt="image-20200621163217792" style="zoom:80%;" />
+   <img src="../../../static/img/02628/image-20200621163217792.png" alt="image-20200621163217792" style="zoom:80%;" />
 
 2. 平均收益曲线（AR）
 
@@ -1201,13 +1201,13 @@ $$
 
       依据利润最大化原则 MR=MC 确定企业的产出决策
 
-      <img src="../../static/img/02628/image-20200621170024921.png" alt="image-20200621170024921" style="zoom: 80%;" />
+      <img src="../../../static/img/02628/image-20200621170024921.png" alt="image-20200621170024921" style="zoom: 80%;" />
 
    2. 如果企业平均成本与市场价格相等（P=SAC），此时企业的需求曲线相切于平均成本的最低点，并且边际成本曲线也与该点相交。
 
       依据利润最大化原则 MR=MC 确定企业的产出决策
 
-      <img src="../../static/img/02628/image-20200621170506846.png" alt="image-20200621170506846" style="zoom:80%;" />
+      <img src="../../../static/img/02628/image-20200621170506846.png" alt="image-20200621170506846" style="zoom:80%;" />
 
 2. 企业亏损极小化决策
 
@@ -1215,7 +1215,7 @@ $$
 
       如果企业面临的市场价格虽然低于企业平均成本，但大于平均变动成本，即 P > AVC，或者 TR > TVC，企业继续生产。
 
-      <img src="../../static/img/02628/image-20200621171227580.png" alt="image-20200621171227580" style="zoom:80%;" />
+      <img src="../../../static/img/02628/image-20200621171227580.png" alt="image-20200621171227580" style="zoom:80%;" />
 
    2. 如果企业面临的市场价格低于企业平均变动成本，即 P < AVC，或者 TR < TVC，企业应该停产。
 
@@ -1225,9 +1225,9 @@ $$
 
 3. 企业的短期供给曲线
 
-   <img src="../../static/img/02628/image-20200621173307419.png" alt="image-20200621173307419" style="zoom:80%;" />
+   <img src="../../../static/img/02628/image-20200621173307419.png" alt="image-20200621173307419" style="zoom:80%;" />
 
-   <img src="../../static/img/02628/image-20200621173403249.png" alt="image-20200621173403249"  />
+   <img src="../../../static/img/02628/image-20200621173403249.png" alt="image-20200621173403249"  />
 
    完全竞争企业在不同价格水平上所能提供不同产出水平的轨迹。
 
@@ -1249,11 +1249,11 @@ $$
 
    完全竞争市场中，利润最大化均衡条件 MR=AR=LMC=LAC=P
 
-   <img src="../../static/img/02628/image-20200621212349421.png" alt="image-20200621212349421" style="zoom:80%;" />
+   <img src="../../../static/img/02628/image-20200621212349421.png" alt="image-20200621212349421" style="zoom:80%;" />
 
 #### 8.2.3 企业竞争战略
 
-<img src="../../static/img/02628/image-20200621214424756.png" alt="image-20200621214424756" style="zoom:80%;" />
+<img src="../../../static/img/02628/image-20200621214424756.png" alt="image-20200621214424756" style="zoom:80%;" />
 
 ### 8.3 完全竞争市场经济绩效的评价
 
@@ -1263,7 +1263,7 @@ $$
 
   生产者剩余实际上是衡量卖者参与市场所得到的收益。
 
-  <img src="../../static/img/02628/image-20200621215435301.png" alt="image-20200621215435301" style="zoom:80%;" />
+  <img src="../../../static/img/02628/image-20200621215435301.png" alt="image-20200621215435301" style="zoom:80%;" />
 
 - **完全竞争市场能使社会福利实现最大化**。
 
@@ -1334,7 +1334,7 @@ $$
 
    根据 MR=SMC ，确定短期均衡点 E，均衡价格 OH，平均成本 MF或 ON。这时价格高于平均成本，企业可获得超额利润。
 
-   <img src="../../static/img/02628/image-20200622102542475.png" alt="image-20200622102542475" style="zoom:80%;" />
+   <img src="../../../static/img/02628/image-20200622102542475.png" alt="image-20200622102542475" style="zoom:80%;" />
 
 2. 是否停产？同第八章 P>AVC 。
 
@@ -1350,7 +1350,7 @@ $$
 
 #### 9.2.3 垄断企业供给曲线
 
-<img src="../../static/img/02628/image-20200622111208143.png" alt="image-20200622111208143" style="zoom:80%;" />
+<img src="../../../static/img/02628/image-20200622111208143.png" alt="image-20200622111208143" style="zoom:80%;" />
 
 #### 9.2.4 垄断企业的竞争战略
 
@@ -1374,7 +1374,7 @@ $$
 
      相比完全竞争市场，垄断市场将会损害消费者利益，使消费者福利减少了。
 
-   <img src="../../static/img/02628/image-20200622113228479.png" alt="image-20200622113228479" style="zoom:80%;" />
+   <img src="../../../static/img/02628/image-20200622113228479.png" alt="image-20200622113228479" style="zoom:80%;" />
 
 2. 垄断与寻租（Rent Seeking）：把别人的收入重新分配（或转移）到自己手中而花费资源来影响公共政策的行为。
 
@@ -1397,17 +1397,17 @@ $$
 
       1. 平均成本是U型的情况：
 
-      <img src="../../static/img/02628/image-20200622165859346.png" alt="image-20200622165859346" style="zoom:80%;" />
+      <img src="../../../static/img/02628/image-20200622165859346.png" alt="image-20200622165859346" style="zoom:80%;" />
 
       2. 自然垄断的情况：
 
          按P=MC定价，价格小于平均成本出现亏损。政府需要补贴企业亏损。
 
-         <img src="../../static/img/02628/image-20200622170307929.png" alt="image-20200622170307929" style="zoom:80%;" />
+         <img src="../../../static/img/02628/image-20200622170307929.png" alt="image-20200622170307929" style="zoom:80%;" />
 
    2. 按平均成本定价（P=AC）：更低的公平价格，消除经济利润。
 
-      <img src="../../static/img/02628/image-20200622165859346.png" alt="image-20200622165859346" style="zoom:80%;" />
+      <img src="../../../static/img/02628/image-20200622165859346.png" alt="image-20200622165859346" style="zoom:80%;" />
 
       优点：不必补贴垄断者；政府可以仅关注企业利润状况。
 
@@ -1450,9 +1450,9 @@ $$
 
   垄断竞争企业的价格和产量决策与垄断企业的决策一样。
 
-  <img src="../../static/img/02628/image-20200622210016318.png" alt="image-20200622210016318" style="zoom:80%;" />
+  <img src="../../../static/img/02628/image-20200622210016318.png" alt="image-20200622210016318" style="zoom:80%;" />
 
-  <img src="../../static/img/02628/image-20200622210046778.png" alt="image-20200622210046778" style="zoom:80%;" />
+  <img src="../../../static/img/02628/image-20200622210046778.png" alt="image-20200622210046778" style="zoom:80%;" />
 
   ![image-20200622210131392](../../../static/img/02628/image-20200622210131392.png)
 
@@ -1485,7 +1485,7 @@ $$
 
 ### 10.3 垄断竞争市场的评价
 
-<img src="../../static/img/02628/image-20200622212657286.png" alt="image-20200622212657286" style="zoom: 67%;" />
+<img src="../../../static/img/02628/image-20200622212657286.png" alt="image-20200622212657286" style="zoom: 67%;" />
 
 1. 两者需求曲线不同与边际收益曲线的位置不同。
 2. 二者的平均收益曲线或需求曲线都与平均成本曲线相切，但二者切点位置不同。
@@ -1543,7 +1543,7 @@ $$
   $$
   OB 为该市场最大可能性需求量，即市场总容量。
 
-  <img src="../../static/img/02628/image-20200624093430162.png" alt="image-20200624093430162" style="zoom:80%;" />
+  <img src="../../../static/img/02628/image-20200624093430162.png" alt="image-20200624093430162" style="zoom:80%;" />
 
 
 
@@ -1559,7 +1559,7 @@ $$
   2. 如果一家企业提价，所有其它企业为了增加自己的销量则毫无反应。
   3. 即竞争对手响应降价但不响应提价。
 
-- <img src="../../static/img/02628/image-20200624100737705.png" alt="image-20200624100737705" style="zoom:80%;" />
+- <img src="../../../static/img/02628/image-20200624100737705.png" alt="image-20200624100737705" style="zoom:80%;" />
 
   
 
@@ -1614,7 +1614,7 @@ $$
 
    指一个行业价格通常由某一企业率先制定，其余企业追随其后确定各自的价格。这是寡头企业之间的一种默契，因而是一种暗中勾结。
 
-   <img src="../../static/img/02628/image-20200627164039610.png" alt="image-20200627164039610" style="zoom:80%;" />
+   <img src="../../../static/img/02628/image-20200627164039610.png" alt="image-20200627164039610" style="zoom:80%;" />
 
    1. 价格领袖模式一般有以下三种：
       1. 支配型价格领袖模式。领先确定价格的企业是本行业中最大的、具有支配地位的企业。
@@ -1671,7 +1671,7 @@ $$
   $$
   谋求利润最大化的企业永远不会再需求曲线的非弹性短经营的。
 
-  <img src="../../static/img/02628/image-20200627173917925.png" alt="image-20200627173917925" style="zoom: 67%;" />
+  <img src="../../../static/img/02628/image-20200627173917925.png" alt="image-20200627173917925" style="zoom: 67%;" />
 
   利润最大化条件的最有成本加成率 m 为：
   $$
@@ -1692,19 +1692,19 @@ $$
 
 1. 目标收益定价法
 
-   <img src="../../static/img/02628/image-20200627180214731.png" alt="image-20200627180214731" style="zoom:67%;" />
+   <img src="../../../static/img/02628/image-20200627180214731.png" alt="image-20200627180214731" style="zoom:67%;" />
 
-   <img src="../../static/img/02628/image-20200627180328904.png" alt="image-20200627180328904" style="zoom:67%;" />
+   <img src="../../../static/img/02628/image-20200627180328904.png" alt="image-20200627180328904" style="zoom:67%;" />
 
 2. 边际成本定价法
 
-   <img src="../../static/img/02628/image-20200627180600286.png" alt="image-20200627180600286" style="zoom:67%;" />
+   <img src="../../../static/img/02628/image-20200627180600286.png" alt="image-20200627180600286" style="zoom:67%;" />
 
 3. 盈亏平衡定价法
 
-   <img src="../../static/img/02628/image-20200627180709790.png" alt="image-20200627180709790" style="zoom:67%;" />
+   <img src="../../../static/img/02628/image-20200627180709790.png" alt="image-20200627180709790" style="zoom:67%;" />
 
-   <img src="../../static/img/02628/image-20200627180842284.png" alt="image-20200627180842284" style="zoom:67%;" />
+   <img src="../../../static/img/02628/image-20200627180842284.png" alt="image-20200627180842284" style="zoom:67%;" />
 
 ### 12.3  价格歧视（重要）
 
@@ -1741,7 +1741,7 @@ $$
    2. 根据用途不同。
    3. 根据消费者的个人特质来划分。
 
-   <img src="../../static/img/02628/image-20200627224606394.png" alt="image-20200627224606394" style="zoom:67%;" />
+   <img src="../../../static/img/02628/image-20200627224606394.png" alt="image-20200627224606394" style="zoom:67%;" />
 
 #### 12.3.4 价格歧视的定义
 
@@ -1825,7 +1825,7 @@ $$
 2. 数字定价法
 3. 心理暗示定价
 
-<img src="../../static/img/02628/image-20200628203810250.png" alt="image-20200628203810250" style="zoom:67%;" />
+<img src="../../../static/img/02628/image-20200628203810250.png" alt="image-20200628203810250" style="zoom:67%;" />
 
 
 
