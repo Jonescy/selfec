@@ -1,6 +1,6 @@
 ---
-title：串讲
-weight：10
+title: 串讲
+weight: 10
 ---
 
 
