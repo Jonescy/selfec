@@ -2,28 +2,13 @@
 title: c++笔记
 weight: 10
 ---
-> **	计算机信息管理专业课程**
+> 计算机信息管理专业课程
 >
 > 自考笔记在线更新地址 : https://github.com/Eished/self-study-exam_notes
 >
-> **配套代码**：https://github.com/Eished/C-CPP
+> 配套代码：https://github.com/Eished/C-CPP
 
 ## 大纲 (2019版)
-
-### 考试题型
-
-- 单选题
-  - 1分x20题 = 20分
-- 填空题
-  - 1分x20题 = 20分
-- 程序改错题
-  - 4分x5题 = 20分
-- 完成程序题
-  - 4分x5题 = 20分
-- 程序分析题
-  - 5分x2题 = 10分
-- 程序设计题
-  - 10分x1题 = 10分
 
 ### IDE 
 
@@ -141,7 +126,7 @@ weight: 10
 - 自定义头文件
 
   - `<>`: 系统设定目录寻找, 未找到再去指定目录找
-  - `“”`: 用户当前目录或指定目录找
+  - `""`: 用户当前目录或指定目录找
     - `#include "e:\myprog\ex1.h"`
 
 - 命名空间 `using namespace std`
@@ -383,6 +368,33 @@ weight: 10
     > 调用时变量前加 "*"-------表示取该地址的内容
     >
     > 声明时变量前加 "基本类型 **"-------该二级指针变量表示另一个一级"基本类型 *"指针变量地址  
+
+```c++
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    int f = 10;
+    const int a = 8;// 只能赋值一次
+    const int c = 9;
+    const int *b = &a; // 可以改变指向
+
+
+    b = &c;
+    cout << b << endl;
+
+    int *const e = &f; // 可以修改地址的值
+    cout << e << endl;
+    *e = 10;
+    cout << e << endl;
+
+    const int *const d = &c; // 既不能修改指向，也不能修改值
+//    *d=20;
+//    d = &c;
+    cout << d << endl;
+}
+```
 
 
 
