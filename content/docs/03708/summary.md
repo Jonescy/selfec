@@ -33,11 +33,41 @@ weight: 10
 2. 简答题 30分
 3. 论述题(3选2) 20分
 
-## 概述
+## 时间线
 
-![img](../../../static/img/historical-outline.png)
+本章节转载于知乎[@明月饰窗](https://www.zhihu.com/column/p/332479842)
 
+### 各个时期、社会性质、主要矛盾
 
+![表1](https://pic2.zhimg.com/80/v2-9e0ca3cabfa7f866707d729520d58441_1440w.jpg)
+
+### 鸦片战争与太平天国运动
+
+![表2](https://pic4.zhimg.com/80/v2-4965a3c2ee1bb0ff7fa5367f7d1a784b_1440w.jpg)
+
+### 洋务运动与戊戌维新运动
+
+![表3](https://pic2.zhimg.com/80/v2-89f14e65ad0ba83f8768a754420e801d_1440w.jpg)
+
+### 辛亥革命与君主专制制度的终结
+
+![表4](https://pic1.zhimg.com/80/v2-fa0d880cfe7fd6190222ca74064c6e68_1440w.jpg)
+
+### 五四运动、党的诞生与大革命
+
+![表5](https://pic3.zhimg.com/80/v2-a7235d7bb620714348ab28ff246ae53a_1440w.jpg)
+
+### 土地革命与中国革命新道路
+
+![表7](https://pic2.zhimg.com/80/v2-d3f078d63a9e5cfc6258711fff0fba59_1440w.jpg)
+
+### 解放战争与新中国奋斗
+
+![表8](https://pic3.zhimg.com/80/v2-1283d49ab580a2e01f7eb31ece03efda_1440w.jpg)
+
+### 中华人民共和国成立与改革开放
+
+![表9](https://pic2.zhimg.com/80/v2-0e738e825d59857c65d2fc58b0f7cb8d_1440w.jpg)
 
 
 
